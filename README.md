@@ -3,6 +3,7 @@ Block ads on MDN in Brave Browser
 # Visual diffrence
 ## From this:
 <img width="1920" height="1001" alt="image" src="https://github.com/user-attachments/assets/fb72815e-63b9-41e8-a04b-c766cbc814dc" />
+
 ## To this!
 <img width="1920" height="1001" alt="image" src="https://github.com/user-attachments/assets/9172725b-f8ab-407c-ac5e-3769310158f4" />
 
