@@ -1,0 +1,5 @@
+developer.mozilla.org##mdn-placement-sidebar
+developer.mozilla.org##mdn-placement-bottom
+developer.mozilla.org##mdn-placement-top
+developer.mozilla.org##.page-layout__banner
+developer.mozilla.org##mdn-placement-hp-main
